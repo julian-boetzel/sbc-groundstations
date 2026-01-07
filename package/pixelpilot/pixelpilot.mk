@@ -4,7 +4,7 @@
 #
 ###############################################################################
 
-PIXELPILOT_VERSION=90ec11e115fe3fd870ad265b21ca8e83ee20d5d3
+PIXELPILOT_VERSION=e898d9bd87dc3ade691a69264f4f3f7e14925597
 PIXELPILOT_SITE=https://github.com/julian-boetzel/PixelPilot_rk.git
 PIXELPILOT_SITE_METHOD = git
 PIXELPILOT_GIT_SUBMODULES = YES
